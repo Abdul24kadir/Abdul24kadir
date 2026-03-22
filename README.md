@@ -1,9 +1,15 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20LLM%20Applications&descAlignY=58&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Kadir%20Jilanee&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Production-Ready%20AI%20Systems&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-<!-- Badges Row -->
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=⚡+LLM+%7C+RAG+Systems+%7C+Backend+Engineer;🏆+Rank+1+%40+Osmania+University+(CGPA+9.29);🔍+Legal+AI+%7C+Search+Engines+%7C+Real-world+Deployment;🚀+From+idea+→+system+→+production+→+impact" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Contact Badges -->
 <p>
   <a href="mailto:kadirjilanee1509@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kadirjilanee1509-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -14,16 +20,8 @@
   <a href="https://abdulkadirjilanee.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
-  <a href="https://github.com/Abdul24kadir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Abdul24kadir-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Abdul24kadir&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
 </p>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=🎓+Rank+1+%40+Osmania+University+(CGPA+9.29);🤖+Building+LLM-powered+AI+applications;🔍+RAG+%7C+LangChain+%7C+HuggingFace+enthusiast;⚡+Turning+research+into+production+systems" alt="Typing SVG" />
-</a>
 
 </div>
 
@@ -33,133 +31,77 @@
 
 ```python
 class AbdulKadir:
-    def __init__(self):
-        self.name       = "Mohammad Abdul Kadir Jilanee"
-        self.location   = "Hyderabad, India 🇮🇳"
-        self.education  = "B.E. AI & Data Science — MJCET (2025)"
-        self.cgpa       = 9.29
-        self.rank       = "Rank 1 @ Osmania University"
-        self.focus      = ["LLM Applications", "RAG Systems", "MLOps"]
-        self.current    = "Software Engineer Intern @ Nowlez AI"
-
-    def say_hi(self):
-        print("Building AI systems that turn complex data into real decisions.")
-
-me = AbdulKadir()
-me.say_hi()
+    position    = "Software Engineer Intern @ Nowlez AI"
+    focus       = ["RAG Systems", "LLM Applications", "Search & Retrieval"]
+    stack       = ["LangChain", "FastAPI", "Elasticsearch", "HuggingFace", "Docker"]
+    achievement = "Rank 1 @ Osmania University — CGPA 9.29"
+    motto       = "Turn raw data into systems that actually ship."
 ```
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI / ML / GenAI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Backend & Databases**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-**Tools & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 💼 Experience
-
-### 🏛️ Software Engineer Intern — **Nowlez AI** *(07/2025 – 09/2025)*
-> Building AI-powered legal intelligence at scale
-
-- 🔍 Built an AI legal assistant for lawyers to query **Supreme Court & High Court** cases via RAG architecture
-- ⚙️ Designed an end-to-end legal document pipeline: **Mistral OCR → Gemini summarization → Anthropic response generation**
-- 🚀 Developed scalable Python backend services with **FastAPI + Elasticsearch**, boosting document retrieval performance
-
----
-
-### 📊 Data Analytics Intern — **YBI Foundation** *(02/2024 – 03/2024)*
-- 🧹 Built robust data preprocessing pipelines using **NumPy, Pandas, and Scikit-learn**
-- ✅ Automated validation & transformation workflows, improving data quality across diverse datasets
+> 🎯 I specialize in building **LLM-powered backends** — from legal document intelligence pipelines to distributed search engines. I care about systems that work at **scale**, not just demos.
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 Research Paper Q&A RAG System</h3>
-      <p><strong>LangChain · ChromaDB · HuggingFace · Gradio</strong></p>
-      <ul>
-        <li>Retrieval-augmented generation pipeline over research PDFs</li>
-        <li>Semantic Q&A with source citations using <strong>Mistral 7B</strong></li>
-        <li>Live deployment on <strong>Hugging Face Spaces</strong></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚦 Smart Traffic Control System</h3>
-      <p><strong>Python · YOLO · OpenCV · NumPy</strong></p>
-      <ul>
-        <li>Real-time vehicle density detection — <strong>93% mAP@50</strong></li>
-        <li>Dynamic signal control reducing congestion by <strong>28%</strong></li>
-        <li>Outperforms traditional timer-based traffic systems</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚖️ Supreme Court Judgement Search Engine</h3>
-      <p><strong>Python · FastAPI · Elasticsearch</strong></p>
-      <ul>
-        <li>High-performance distributed legal search engine</li>
-        <li>TF-IDF embeddings, multi-index search, caching & rate-limiting</li>
-        <li>Hosted on <strong>Elastic Cloud</strong></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔮 More coming soon...</h3>
-      <p>Always building. Always learning.</p>
-      <ul>
-        <li>Graph-based knowledge systems with Neo4j</li>
-        <li>Agentic AI workflows with LangChain</li>
-        <li>Open-source RAG tooling</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### ⚖️ Legal AI Document Intelligence Pipeline — *Nowlez AI*
+> *Mistral OCR → Gemini Summarization → Anthropic Response Generation*
+
+- Engineered an **end-to-end RAG pipeline** enabling lawyers to query Supreme Court & High Court judgements via natural language
+- Built scalable **FastAPI + Elasticsearch** backend — optimized retrieval across thousands of legal documents
+- Designed a **3-stage AI pipeline** (OCR → summarization → generation) for large-scale judiciary data processing
+
+**Stack:** `Python` `FastAPI` `Elasticsearch` `LangChain` `RAG` `Mistral` `Gemini` `Anthropic`
 
 ---
 
-## 📜 Certifications
+### 🔍 Supreme Court Judgement Search Engine
+> *High-performance distributed legal search at scale*
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| 🔷 Neo4j Graph Database | GraphAcademy | 2025 |
-| 🤖 Generative AI Professional | Oracle University | 2024 |
-| 🧠 Machine Learning | YBI Foundation | 2024 |
-| 🐍 Python Programming | Great Learning | 2024 |
+- Built a **distributed search engine** with multi-index querying, TF-IDF embeddings, pagination & API rate-limiting
+- Reduced search latency with **caching strategies** and relevance ranking optimizations
+- **Production-deployed** on Elastic Cloud — not just a demo
+
+**Stack:** `Python` `FastAPI` `Elasticsearch` `Elastic Cloud`
+
+---
+
+### 📄 Research Paper Q&A — RAG System
+> *Semantic search with source citations over research PDFs*
+
+- Ingests PDFs → chunks → embeds into **ChromaDB** vector store → answers with source citations
+- Powered by **Mistral 7B** via HuggingFace Inference API
+- **Live on HuggingFace Spaces** — end-to-end RAG with full source traceability
+
+**Stack:** `LangChain` `ChromaDB` `HuggingFace` `Mistral 7B` `Gradio`
+
+---
+
+### 🚦 Smart Traffic Control System
+> *AI-driven real-time traffic management*
+
+- Achieved **93% mAP@50** for vehicle detection using YOLO + OpenCV
+- Dynamic signal control reduced congestion by **28%** vs traditional timer-based systems
+- Adaptive signal duration driven by **live vehicle density** in simulation
+
+**Stack:** `Python` `YOLO` `OpenCV` `NumPy`
+
+---
+
+## ⚙️ Core Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -167,13 +109,11 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul24kadir&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul24kadir&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Abdul24kadir&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul24kadir&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul24kadir&theme=midnight-purple&hide_border=true&background=0d1117" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul24kadir&theme=midnight-purple&hide_border=true&background=0d1117" />
 </div>
 
 ---
@@ -188,13 +128,11 @@ me.say_hi()
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing
+*Open to AI/ML Engineer roles · LLM & RAG systems · Backend AI applications*
 
-*Open to AI/ML roles, research collaborations, and interesting open-source projects.*
-
-[![Email](https://img.shields.io/badge/Email-kadirjilanee1509%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:kadirjilanee1509@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-abdul-kadir-jilanee-a0a072265/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulkadirjilanee.netlify.app-7c3aed?style=flat-square&logo=netlify)](https://abdulkadirjilanee.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kadirjilanee1509@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdul-kadir-jilanee-a0a072265/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=netlify&logoColor=white)](https://abdulkadirjilanee.netlify.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
