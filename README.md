@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=40&desc=GenAI%20Engineer%20%7C%20RAG%20Systems%20%7C%20Data%20Analyst%20%7C%20Python%20Developer&descSize=16&descAlignY=60&descColor=c4b5fd"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:2d1b69,100:0d0d1a&height=230&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=GenAI%20Engineer%20%7C%20RAG%20Systems%20%7C%20Data%20Analyst%20%7C%20Python%20Developer&descSize=16&descAlignY=60&descColor=c4b5fd"/>
 
 <!-- CONTACT BADGES -->
 <a href="mailto:kadirjilanee1509@gmail.com">
@@ -23,8 +23,6 @@
 ---
 
 ## 🧠 About Me
-
-<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class AbdulKadir:
@@ -51,8 +49,6 @@ class AbdulKadir:
     now_exploring = ["Agentic AI", "GraphRAG", "LLM Evaluation"]
     belief        = "Ideas mean nothing. Shipped systems do."
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -160,18 +156,17 @@ class AbdulKadir:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul24kadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=ffffff&icon_color=c4b5fd"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul24kadir&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abdul24kadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=ffffff&icon_color=c4b5fd"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul24kadir&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=ffffff"/>
 
-</div>
+<br/>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul24kadir&theme=tokyonight&hide_border=true&background=0d0d1a&ring=c4b5fd&fire=ff6b6b&currStreakLabel=c4b5fd"/>
-</div>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul24kadir&theme=tokyonight&hide_border=true&background=0d0d1a&ring=c4b5fd&fire=ff6b6b&currStreakLabel=c4b5fd"/>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul24kadir&theme=tokyo-night&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=ffffff&hide_border=true"/>
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul24kadir&theme=tokyo-night&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=ffffff&hide_border=true"/>
+
 </div>
 
 ---
@@ -179,7 +174,7 @@ class AbdulKadir:
 <!-- DYNAMIC FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer&text=Open%20to%20GenAI%20%2B%20Data%20Roles&fontSize=22&fontColor=c4b5fd&animation=twinkling&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:2d1b69,100:0d0d1a&height=150&section=footer&text=Open%20to%20GenAI%20%2B%20Data%20Roles&fontSize=22&fontColor=c4b5fd&animation=fadeIn&fontAlignY=55"/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-kadirjilanee1509%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kadirjilanee1509@gmail.com)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdul-kadir-jilanee-a0a072265/)&nbsp;&nbsp;
