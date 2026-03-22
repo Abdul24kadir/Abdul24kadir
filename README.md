@@ -1,8 +1,13 @@
+<h1 align="center">Hi 👋, I'm Mohammad Abdul Kadir Jilanee</h1>
+<h3 align="center">AI Engineer | LLM & RAG Developer | Backend Enthusiast</h3>
+
+---
+
 # 💫 About Me:
-💻 Building LLM & RAG-based AI applications using FastAPI, LangChain & Hugging Face  
-🤝 Open to collaborating on Generative AI & scalable backend systems  
-🆘 Exploring model optimization, evaluation & production deployment  
-🌱 Learning advanced LLM systems, vector DBs & system design  
+💻 Building scalable **LLM & RAG-based AI systems** using FastAPI, LangChain & Hugging Face  
+🚀 Focused on real-world AI applications (Search, Legal AI, Automation)  
+🤝 Open to collaborating on Generative AI & backend systems  
+🌱 Currently learning advanced LLM architectures, vector DBs & system design  
 💬 Ask me about Python, FastAPI, LangChain, RAG & Elasticsearch  
 ⚡ Rank 1 @ Osmania University (CGPA 9.29)
 
@@ -14,22 +19,30 @@
 
 ---
 
+# 🚀 Featured Projects:
+🔹 **RAG Research Paper Q&A System**  
+→ Built using LangChain, ChromaDB & HuggingFace  
+→ Enables semantic search with source citations  
+
+🔹 **Supreme Court Judgment Search Engine**  
+→ Developed with FastAPI & Elasticsearch  
+→ Optimized ranking, caching & retrieval  
+
+🔹 **Smart Traffic Control System**  
+→ Built using YOLO & OpenCV  
+→ Improved traffic efficiency by 28%  
+
+---
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 🚀 Featured Projects:
-🔹 **RAG Research Paper Q&A System** – Semantic search with citations using LangChain & ChromaDB  
-🔹 **Supreme Court Judgment Search Engine** – FastAPI + Elasticsearch with optimized ranking  
-🔹 **Smart Traffic Control System** – YOLO + OpenCV with 28% efficiency improvement  
 
 ---
 
@@ -47,4 +60,4 @@
 
 ---
 
-⭐ *Turning AI ideas into real-world applications*
+⭐ *Turning AI ideas into real-world scalable applications*
