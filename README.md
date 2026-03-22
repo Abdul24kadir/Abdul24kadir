@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:2d1b69,100:0d0d1a&height=220&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🚀%20AI%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20Python%20Developer&descAlignY=60&descSize=16&descColor=c4b5fd"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:2d1b69,100:0d0d1a&height=220&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20Python%20Developer&descAlignY=60&descSize=16&descColor=c4b5fd"/>
 
 <br/>
 
 <a href="mailto:kadirjilanee1509@gmail.com">
-  <img src="https://img.shields.io/badge/✉ Email-kadirjilanee1509%40gmail.com-ea4335?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-kadirjilanee1509%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mohammad-abdul-kadir-jilanee-a0a072265/">
-  <img src="https://img.shields.io/badge/🔗 LinkedIn-Mohammad%20Abdul%20Kadir-0077b5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://abdulkadirjilanee.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-abdulkadirjilanee.netlify.app-7c3aed?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-abdulkadirjilanee.netlify.app-7c3aed?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -156,8 +156,8 @@ kadir = {
 
 *LLM Pipelines · RAG Systems · Backend AI Applications*
 
-[![Email](https://img.shields.io/badge/✉-kadirjilanee1509%40gmail.com-ea4335?style=flat-square)](mailto:kadirjilanee1509@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077b5?style=flat-square)](https://www.linkedin.com/in/mohammad-abdul-kadir-jilanee-a0a072265/)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-7c3aed?style=flat-square)](https://abdulkadirjilanee.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-kadirjilanee1509%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kadirjilanee1509@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdul-kadir-jilanee-a0a072265/)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=flat-square&logo=netlify&logoColor=white)](https://abdulkadirjilanee.netlify.app/)
 
 </div>
