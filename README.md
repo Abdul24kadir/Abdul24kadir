@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:2d1b69,100:0d0d1a&height=230&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=GenAI%20Engineer%20%7C%20RAG%20Systems%20%7C%20Data%20Analyst%20%7C%20Python%20Developer&descSize=16&descAlignY=60&descColor=c4b5fd"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:2d1b69,100:0d0d1a&height=230&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=GenAI%20Engineer%20%7C%20RAG%20Systems%20%7C%20Python%20Developer&descSize=16&descAlignY=60&descColor=c4b5fd"/>
 
 <!-- CONTACT BADGES -->
 <a href="mailto:kadirjilanee1509@gmail.com">
