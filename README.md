@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:2d1b69,100:0d0d1a&height=220&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20Python%20Developer&descAlignY=60&descSize=16&descColor=c4b5fd"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&background=1a0d3d&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Mohammad+Abdul+Kadir+Jilanee"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=1&pause=999999&color=c4b5fd&background=2d1b69&center=true&vCenter=true&repeat=false&width=900&height=50&lines=AI+Engineer+%7C+LLM+%26+RAG+Systems+%7C+Python+Developer"/>
 
 <br/>
 
@@ -152,7 +153,7 @@ kadir = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:2d1b69,100:0d0d1a&height=130&section=footer&text=Open%20to%20AI%20Engineer%20Roles&fontSize=20&fontColor=c4b5fd&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=1&pause=999999&color=c4b5fd&background=1a0d3d&center=true&vCenter=true&repeat=false&width=900&height=60&lines=Open+to+AI+Engineer+Roles+%7C+LLM+Pipelines+%7C+RAG+Systems"/>
 
 *LLM Pipelines · RAG Systems · Backend AI Applications*
 
