@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a0533,70:2d1b69,100:0d0d1a&height=220&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20%2B%20RAG%20Systems%20%7C%20Python%20Developer&descAlignY=60&descSize=16&descColor=c4b5fd"/>
+<!-- DYNAMIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=40&desc=GenAI%20Engineer%20%7C%20RAG%20Systems%20%7C%20Data%20Analyst%20%7C%20Python%20Developer&descSize=16&descAlignY=60&descColor=c4b5fd"/>
 
-<br/>
-
+<!-- CONTACT BADGES -->
 <a href="mailto:kadirjilanee1509@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-kadirjilanee1509%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -13,7 +13,7 @@
 </a>
 &nbsp;
 <a href="https://abdulkadirjilanee.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-abdulkadirjilanee.netlify.app-7c3aed?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -24,19 +24,32 @@
 
 ## 🧠 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-kadir = {
-  "role"    : "AI Engineer @ Nowlez AI",
-  "focus"   : ["RAG Systems", "LLM Pipelines",
-               "Search & Retrieval Backends"],
-  "shipped" : ["Legal AI for Supreme Court data",
-               "Distributed Search Engine",
-               "Research Paper Q&A (live on HF)"],
-  "edge"    : "Rank 1 · Osmania University · 9.29 CGPA",
-  "belief"  : "Ideas mean nothing. Shipped systems do."
-}
+class AbdulKadir:
+
+    role     = "GenAI Engineer @ Nowlez AI"
+    location = "Hyderabad, India"
+    rank     = "Rank 1 · Osmania University · CGPA 9.29"
+
+    expertise = [
+        "RAG Systems & LLM Pipelines",
+        "LangChain · HuggingFace · Anthropic",
+        "Data Analytics & ML Engineering",
+        "Python Backend · FastAPI",
+        "Search & Retrieval · Elasticsearch",
+    ]
+
+    shipped = [
+        "Legal AI for 1000s of Court Judgements",
+        "Distributed Supreme Court Search Engine",
+        "Research Paper Q&A — Live on HuggingFace",
+        "Smart Traffic Control (93% mAP, -28% congestion)",
+    ]
+
+    now_exploring = ["Agentic AI", "GraphRAG", "LLM Evaluation"]
+    belief        = "Ideas mean nothing. Shipped systems do."
 ```
 
 <br clear="right"/>
@@ -47,13 +60,14 @@ kadir = {
 
 <div align="center">
 
-| Layer | Technologies |
+| Domain | Tools |
 |---|---|
-| **LLM & GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) |
-| **Search & DB** | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white) |
-| **Infra & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Elastic Cloud](https://img.shields.io/badge/Elastic_Cloud-005571?style=flat-square&logo=elastic&logoColor=white) |
-| **AI/Vision** | ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **GenAI & LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
+| **RAG & Vector** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) |
+| **Python & Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) |
+| **Data Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **DB & Infra** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Elastic Cloud](https://img.shields.io/badge/Elastic_Cloud-005571?style=flat-square&logo=elastic&logoColor=white) |
+| **AI / Vision** | ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
 
 </div>
 
@@ -142,19 +156,30 @@ kadir = {
 
 ---
 
-## 📈 Most Used Languages
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul24kadir&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul24kadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=ffffff&icon_color=c4b5fd"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul24kadir&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul24kadir&theme=tokyonight&hide_border=true&background=0d0d1a&ring=c4b5fd&fire=ff6b6b&currStreakLabel=c4b5fd"/>
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul24kadir&theme=tokyo-night&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=ffffff&hide_border=true"/>
 </div>
 
 ---
 
+<!-- DYNAMIC FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=1&pause=999999&color=c4b5fd&background=1a0d3d&center=true&vCenter=true&repeat=false&width=900&height=60&lines=Open+to+AI+Engineer+Roles+%7C+LLM+Pipelines+%7C+RAG+Systems"/>
-
-*LLM Pipelines · RAG Systems · Backend AI Applications*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer&text=Open%20to%20GenAI%20%2B%20Data%20Roles&fontSize=22&fontColor=c4b5fd&animation=twinkling&fontAlignY=55"/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-kadirjilanee1509%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kadirjilanee1509@gmail.com)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdul-kadir-jilanee-a0a072265/)&nbsp;&nbsp;
