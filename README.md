@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Kadir%20Jilanee&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Production-Ready%20AI%20Systems&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammad%20Abdul%20Kadir%20Jilanee&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Production-Ready%20AI%20Systems&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=⚡+LLM+%7C+RAG+Systems+%7C+Backend+Engineer;🏆+Rank+1+%40+Osmania+University+(CGPA+9.29);🔍+Legal+AI+%7C+Search+Engines+%7C+Real-world+Deployment;🚀+From+idea+→+system+→+production+→+impact" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=⚡+LLM+%7C+RAG+Systems+%7C+Backend+Engineer;🏆+Rank+1+%40+Osmania+University+(CGPA+9.29);🔍+Legal+AI+%7C+Search+Engines+%7C+Real-world+Deployment;🚀+From+idea+%E2%86%92+system+%E2%86%92+production+%E2%86%92+impact" alt="Typing SVG" />
 
 <br/>
 
@@ -116,15 +114,7 @@ class AbdulKadir:
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdul24kadir&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-</div>
-
----
 
 <div align="center">
 
