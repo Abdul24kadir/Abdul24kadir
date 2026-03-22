@@ -27,27 +27,22 @@
 ```python
 class AbdulKadir:
 
-    role     = "GenAI Engineer @ Nowlez AI"
+    role = "GenAI Engineer @ Nowlez AI"
     location = "Hyderabad, India"
-    rank     = "Rank 1 · Osmania University · CGPA 9.29"
 
-    expertise = [
-        "RAG Systems & LLM Pipelines",
-        "LangChain · HuggingFace · Anthropic",
-        "Data Analytics & ML Engineering",
-        "Python Backend · FastAPI",
-        "Search & Retrieval · Elasticsearch",
+    focus = ["LLM Systems", "RAG Pipelines", "Search Backends"]
+
+    projects = [
+        "Legal AI for court judgments",
+        "Distributed search engine",
+        "RAG Q&A (HuggingFace)",
+        "Traffic system (93% mAP, -28%)"
     ]
 
-    shipped = [
-        "Legal AI for 1000s of Court Judgements",
-        "Distributed Supreme Court Search Engine",
-        "Research Paper Q&A — Live on HuggingFace",
-        "Smart Traffic Control (93% mAP, -28% congestion)",
-    ]
+    learning = ["Agentic AI", "GraphRAG", "LLM Evaluation"]
 
-    now_exploring = ["Agentic AI", "GraphRAG", "LLM Evaluation"]
-    belief        = "Ideas mean nothing. Shipped systems do."
+    motto = "Ship real AI systems."
+
 ```
 
 ---
