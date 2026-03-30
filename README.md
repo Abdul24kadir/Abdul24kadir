@@ -27,7 +27,6 @@
 ```python
 class AbdulKadir:
 
-    role = "GenAI Engineer @ Nowlez AI"
     location = "Hyderabad, India"
 
     focus = ["LLM Systems", "RAG Pipelines", "Search Backends"]
